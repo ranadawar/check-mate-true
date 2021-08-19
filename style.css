@@ -1,0 +1,107 @@
+
+
+
+
+/* For All Section */
+body{
+  font-family: 'Barlow', sans-serif;
+  margin:0;
+  padding: 0
+
+
+}
+
+p{
+  color: grey;
+}
+.increase-s{
+  font-size:1.3rem;
+}
+h1,h2,h3,h4,h5{
+  font-family: 'Teko', sans-serif;
+  color: black;
+
+}
+.all-section{
+  padding: 9% 10%;
+  text-align: center;
+}
+.d-images{
+  width:100%;
+  align-self:center;
+}
+.in-grey{
+  color: black;
+
+}
+
+/* Nav Bar Properties */
+.nav-item{
+  font-size: 1.1rem;
+  margin-right: 40px;
+}
+
+
+/* Main Profile Image */
+.pimage{
+  width: 45%;
+}
+
+
+
+
+/* About Me Section */
+.about-me{
+  background-color: #b1b5ae;
+}
+
+
+
+
+/* Testimonials Section */
+
+
+.testimonals{
+  background-color: #6e675f;
+
+  text-align: center;
+}
+.carousel-item{
+  padding:7% 10% 0 10%;
+}
+
+h2{
+
+  font-size:2.6rem;
+  font-weight: 500;
+  line-height: 1.2;
+
+}
+.testimonials-img{
+  width:20%;
+  border-radius:100%;
+  margin: 20px;
+}
+
+/* Press Section */
+
+.press{
+  background-color: #6e675f;
+  padding: 0% 10% 2% 10%;
+}
+.wal{
+  justify-content: space-around;
+}
+.press-logo{
+  width: 75%;
+}
+
+/* Footers Section */
+
+.footers{
+  padding: 7% 10%;
+
+}
+.footers div i{
+  margin: 2%;
+}
